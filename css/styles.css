@@ -1,0 +1,25 @@
+
+h1{
+  float: left;
+
+}
+
+button{
+  margin-top:20px;
+  float: right;
+}
+
+p{
+  margin-top: 120px;
+}
+
+
+.nighttime{
+  background-color: black;
+  color:#FAFAD2;
+}
+
+.daytime{
+  background-color:white;
+  color:black;
+}
